@@ -1,7 +1,7 @@
 package com.lwb.easy.excel.constant;
 
 /**
- * 媒体类型
+ * 媒体类型常量
  * @author liuweibo
  * @date 2019/8/19
  */
